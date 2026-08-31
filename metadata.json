@@ -1,0 +1,6 @@
+{
+  "name": "AsOurs Agency - Contractor Growth & Instant Quote Systems",
+  "description": "Done-for-you paid ads management and custom embeddable instant quote lead capture calculators built specifically for US residential trade contractors by AsOurs Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
