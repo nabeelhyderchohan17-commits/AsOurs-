@@ -24,7 +24,7 @@ export const Footer: React.FC<FooterProps> = ({ onScrollToSection, onOpenBookCal
             >
               <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-[#ff6b00] to-[#ff2a00] flex items-center justify-center p-1.5 shadow-lg shadow-[#ff5500]/25 group-hover:scale-105 transition-transform">
                 <img
-                  src="/asours-logo-white.png"
+                  src="./asours-logo-white.png"
                   alt="AsOurs Logo"
                   className="w-full h-full object-contain select-none"
                   referrerPolicy="no-referrer"

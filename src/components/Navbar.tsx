@@ -80,7 +80,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBookCall, onScrollToSectio
         >
           <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-br from-[#1c2230] to-[#0e121a] border border-white/15 flex items-center justify-center p-1.5 group-hover:border-[#ff5500] group-hover:shadow-[0_0_16px_rgba(255,85,0,0.5)] transition-all shrink-0">
             <img
-              src="/asours-logo-orange.png"
+              src="./asours-logo-orange.png"
               alt="AsOurs Logo"
               className="w-full h-full object-contain select-none"
               referrerPolicy="no-referrer"

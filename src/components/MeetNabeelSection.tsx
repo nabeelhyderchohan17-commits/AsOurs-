@@ -26,11 +26,11 @@ export const MeetNabeelSection: React.FC<MeetNabeelSectionProps> = ({
   const [currentImgIdx, setCurrentImgIdx] = useState(0);
 
   const imageSources = [
-    '/nabeel.png',
-    '/ChatGPT Image Jun 13, 2026, 12_59_04 PM.png',
-    '/image.png',
-    '/nabeel.jpg',
-    '/founder.png',
+    './nabeel.png',
+    './ChatGPT Image Jun 13, 2026, 12_59_04 PM.png',
+    './image.png',
+    './nabeel.jpg',
+    './founder.png',
   ];
 
   const founderEmail = 'nabeelhyderchohan767@gmail.com';
